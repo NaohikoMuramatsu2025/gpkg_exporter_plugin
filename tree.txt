@@ -1,0 +1,14 @@
+フォルダー パスの一覧
+ボリューム シリアル番号は CCC1-FE4B です
+C:.
+│  tree.txt
+│  
+├─dist
+│      my_gpkg_exporter.zip
+│      
+└─my_gpkg_exporter
+        icon.png
+        metadata.txt
+        my_gpkg_exporter.py
+        __init__.py
+        

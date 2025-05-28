@@ -1,0 +1,7 @@
+[general]
+name=my_gpkg_exporter
+description=現在のすべてのレイヤを1つのGeoPackageに保存するプラグイン
+version=1.0
+qgisMinimumVersion=3.0
+author=NaohikoMuramatsu
+email=muramatsu@gkukan.jp
